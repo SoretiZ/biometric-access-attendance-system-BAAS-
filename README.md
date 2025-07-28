@@ -1,8 +1,8 @@
 Biometric Attendance & Access Control System
 Contributors
-Soreti Zenababa Tadesse
-Gutenber Abera Jibat
-Kena Tesfaye Mosisa
+Soreti Zenababa Tadesse,
+Gutenber Abera Jibat,
+Kena Tesfaye Mosisa.
 # biometric-access-attendance-system-BAAS-
 ### Problem Statement
 Manual attendance systems are inefficient and prone to manipulation. Similarly, secure areas in banks require a more foolproof access method than keys or cards.
